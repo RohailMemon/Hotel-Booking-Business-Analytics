@@ -15,7 +15,7 @@ Our goal is to transform raw hotel booking data into meaningful insights that en
 **Business Analytics Breakdown**
 
 
-**I. Booking Trends Analysis – Optimize Pricing & Demand Forecasting**
+**1️⃣ Booking Trends Analysis – Optimize Pricing & Demand Forecasting**
 
 **1. Peak Booking Months:** The most bookings occur in July & August, indicating high seasonal demand.
 
@@ -28,7 +28,7 @@ Our goal is to transform raw hotel booking data into meaningful insights that en
 •	Offer discounts & marketing campaigns for off-peak months to boost occupancy.
 
 
-**II. Revenue Insights – Increase Profitability & Adjust Pricing**
+**2️⃣ Revenue Insights – Increase Profitability & Adjust Pricing**
 
 **1. ADR (Average Daily Rate) is highest in August**, meaning hotels can leverage peak demand for premium pricing.
 
@@ -43,7 +43,7 @@ Our goal is to transform raw hotel booking data into meaningful insights that en
 •	Promote direct bookings to reduce OTA commission costs.
 
 
-**III. Cancellation Analysis – Reduce Lost Revenue**
+**3️⃣ Cancellation Analysis – Reduce Lost Revenue**
 
 **1. Cancellations are highest for Online Travel Agencies (OTA) customers**, while direct bookings have lower cancellation rates.
 
@@ -55,7 +55,7 @@ Our goal is to transform raw hotel booking data into meaningful insights that en
 
 •	Flexible rescheduling policies for long lead-time bookings to retain customers instead of losing them.
 
-**IV. Customer Segmentation – Targeted Marketing & Retention**
+**4️⃣ Customer Segmentation – Targeted Marketing & Retention**
 
 **1. Business travelers (weekday stays) book City Hotels more often**, while leisure travelers (weekend stays) prefer Resort Hotels.
 
